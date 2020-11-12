@@ -11,7 +11,7 @@ What a shame our provincal goverment has decided that going in to a full lockdow
 As of November 11th 2020 Manitoba has ...
 
 
-<iframe class="full" frameborder="0" marginheight="0" marginwidth="0" scrolling="yes" height="200" src="//www.arcgis.com/apps/opsdashboard/index.html#/6a54fdb3ca714c9880c53401425a0448"></iframe>
+<iframe class="full" frameborder="0" marginheight="0" marginwidth="0" scrolling="yes" height="60%" src="//www.arcgis.com/apps/opsdashboard/index.html#/6a54fdb3ca714c9880c53401425a0448"></iframe>
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
