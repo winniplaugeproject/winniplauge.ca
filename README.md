@@ -3,14 +3,17 @@
 
 Welcome to Winniplauge! Your Next Stop For a Public Health Crisis!
 
-CODE RED has come in to effect on November 12th 2020, however social gatherings were suddenly removed from the list of changes being made to this lockdown, like before you can have 5 + household, because <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Manitobans don’t need a law to do what is right - restrict your social interactions to your household. Not because you’ll be fined, but because it’s the right thing to do to fight <a href="https://twitter.com/hashtag/Covid19MB?src=hash&amp;ref_src=twsrc%5Etfw">#Covid19MB</a> <a href="https://t.co/hojK3mRaqE">https://t.co/hojK3mRaqE</a></p>&mdash; Dr. Brent Roussin (@roussin_brent) <a href="https://twitter.com/roussin_brent/status/1326728044954972161?ref_src=twsrc%5Etfw">November 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>. Time to go out there and spread the Rona! Can we hit a 15% positivity rate by December? That would be poggers!
+CODE RED has come in to effect on November 12th 2020, however social gatherings were suddenly removed from the list of changes being made to this lockdown, like before you can have 5 + household, because "Manitobans don’t need a law to do what is right - restrict your social interactions to your household. Not because you’ll be fined, but because it’s the right thing to do to fight #Covid19MB https://t.co/hojK3mRaqE
+
+— Dr. Brent Roussin (@roussin_brent) November 12, 2020". 
+Time to go out there and spread the Rona! Can we hit a 15% positivity rate by December? That would be poggers!
 
 ### 
 
 COVID STATS ...
 
 
-<iframe class="full" frameborder="0" marginheight="0" marginwidth="0" scrolling="yes" height="500" width="50%" src="//www.arcgis.com/apps/opsdashboard/index.html#/6a54fdb3ca714c9880c53401425a0448"></iframe>
+<iframe class="full" frameborder="0" marginheight="0" marginwidth="0" scrolling="yes" height="500" width="100%" src="//www.arcgis.com/apps/opsdashboard/index.html#/6a54fdb3ca714c9880c53401425a0448"></iframe>
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
