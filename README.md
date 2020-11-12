@@ -7,7 +7,7 @@ CODE RED has come in to effect on November 12th 2020, however social gatherings 
 
 ### 
 
-As of November 11th 2020 Manitoba has ...
+COVID STATS ...
 
 
 <iframe class="full" frameborder="0" marginheight="0" marginwidth="0" scrolling="yes" height="500" width="50%" src="//www.arcgis.com/apps/opsdashboard/index.html#/6a54fdb3ca714c9880c53401425a0448"></iframe>
